@@ -1,4 +1,4 @@
-# Java Developer Roadmap
+# Backend Developer Roadmap (Java)
 
 ## Java Core
 
@@ -70,4 +70,77 @@
 
 ## Java EE
 
+### Topics
+
+- Servlets
+- JSP
+- JMS
+- Application Servers
+	- Tomcat
+	- Jetty
+	- WildFly
 ## Frameworks
+
+### Materials
+**Books**
+- "Spring in Action" series
+  
+**Documentation**
+- Official documentation
+### Topics
+**Spring** 
+ - Spring Core
+     - Configuration
+     - DI, IoC
+     - AOP
+     - Annotations
+     - Bean Scope
+     - Bean Factory
+     - Application Context
+ - Spring Boot
+     - Starters  
+     - Autoconfiguration
+     - Actuators
+     - Embedded Server
+ - Spring MVC
+     - Architecture
+     - Components
+ - Spring Data
+     - Spring Data JPA
+     - Spring Data JDBC
+ - Spring Security
+     - Authentification
+     - Authorization
+     - OAuth2
+     - JWT
+     - SAML
+     - LDAP
+    - Databases
+
+**Databases**
+ - JDBC
+     - JDBI3  
+     - JDBC Template
+ - ORM/JPA
+     - Hibernate
+		  - ORM
+		  - Persistence Context
+		  - Relationships
+		  - Lazy, Eager
+		  - Entity Lifecycle
+		  - Cache
+	 - OpenJPA
+ - JOOQ     
+ - Liquibase/Flyway 
+
+**Other**
+- Logging 
+	 - Log4j2
+	 - Logback     
+	 - SLF4J     
+- Apache Spark 
+- Utils 
+	 - Guava     
+	 - Apache Commons     
+	 - Jackson 
+	 - Quartz
