@@ -1,5 +1,23 @@
 # Backend Developer Roadmap (Java)
 
+
+## Principles & Patterns
+
+### Materials
+**Books**
+- [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?crid=2KBE6WUPQMB5B&keywords=head+first+design+patterns+a+brain-friendly+guide&qid=1582557840&s=books&sprefix=head+first+design+%2Cstripbooks-intl-ship%2C159&sr=1-1) - Eric Freeman 
+
+**Resources**
+- https://refactoring.guru
+- [https://www.geeksforgeeks.org/gang-of-four-gof-design-patterns](https://www.geeksforgeeks.org/gang-of-four-gof-design-patterns)/
+
+### Topics
+- OOP
+- SOLID
+- KISS
+- Design patterns (GoF)
+- DDD
+- Anti patterns
 ## Java Core
 
 ### Materials
@@ -144,3 +162,10 @@
 	 - Apache Commons     
 	 - Jackson 
 	 - Quartz
+
+## Reactive
+- Flux  
+- RXJava 
+- Spring WebFlux   
+- Vert.x    
+- Akka
