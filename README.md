@@ -1,9 +1,22 @@
 # Backend Developer Roadmap (Java)
 
-
-## Principles & Patterns
+## Backend
 
 ### Materials
+**Books**
+- Refactoring: Improving the Design of Existing Code - Martin Fowler
+- Patterns of Enterprise Application Architecture - Martin Fowler
+- Clean Code - Robert Martin
+- The Clean Coder -  Robert Martin
+- Code Complete -  Steve McConnell
+- Working Effectively with Legacy Code -  Michael Feathers
+- The Pragmatic Programmer - David Thomas
+**Courses**
+- https://job4j.ru/
+- https://hyperskill.org/tracks
+### Principles & Patterns
+
+#### Materials
 **Books**
 - [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?crid=2KBE6WUPQMB5B&keywords=head+first+design+patterns+a+brain-friendly+guide&qid=1582557840&s=books&sprefix=head+first+design+%2Cstripbooks-intl-ship%2C159&sr=1-1) - Eric Freeman 
 
@@ -11,16 +24,16 @@
 - https://refactoring.guru
 - [https://www.geeksforgeeks.org/gang-of-four-gof-design-patterns](https://www.geeksforgeeks.org/gang-of-four-gof-design-patterns)/
 
-### Topics
+#### Topics
 - OOP
 - SOLID
 - KISS
 - Design patterns (GoF)
 - DDD
 - Anti patterns
-## Java Core
+### Java Core
 
-### Materials
+#### Materials
 
 **Books**
 - Head first Java - Kathy Sierra
@@ -34,11 +47,10 @@
 - The Java Language Specification
 - The Java Virtual Machine Specification
 
-**Курсы**
-
+**Courses**
 - https://zhukovsd.github.io/java-backend-learning-course/
 
-### Topics
+#### Topics
 
 **Base**
 - Syntax
@@ -86,9 +98,9 @@
 	- thread dump
 	- heap dump
 
-## Java EE
+### Java EE
 
-### Topics
+#### Topics
 
 - Servlets
 - JSP
@@ -97,15 +109,15 @@
 	- Tomcat
 	- Jetty
 	- WildFly
-## Frameworks
+### Frameworks
 
-### Materials
+#### Materials
 **Books**
 - "Spring in Action" series
   
 **Documentation**
 - Official documentation
-### Topics
+#### Topics
 **Spring** 
  - Spring Core
      - Configuration
@@ -163,7 +175,7 @@
 	 - Jackson 
 	 - Quartz
 
-## Reactive
+### Reactive
 - Flux  
 - RXJava 
 - Spring WebFlux   
