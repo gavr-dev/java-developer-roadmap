@@ -181,3 +181,32 @@
 - Spring WebFlux   
 - Vert.x    
 - Akka
+
+## Frontend
+
+### Materials
+*TBD*
+
+### Topics
+- JavaScript
+- React, Vue, Angular
+- SPA, SSR, SSG
+
+## Testing
+
+### Materials
+- Тестирование Дот Ком, Роман Савин
+### Topics
+- Unit
+	- JUnit
+	- Mockito
+	- TestNG
+	- PowerMock
+	- TDD
+- Integration
+	- Cucumber
+	- JMeter
+	- Selenium
+- Behavior
+	- JBehave
+	- BDD
