@@ -210,3 +210,14 @@
 - Behavior
 	- JBehave
 	- BDD
+
+## Practices and methodologies
+- Waterfall
+- Agile
+	- Scrum
+	- Kanban
+- Lean
+- Prototype
+- RAD
+- FDD
+- XP (Extreme Programming)
