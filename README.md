@@ -221,3 +221,18 @@
 - RAD
 - FDD
 - XP (Extreme Programming)
+
+## Soft skills
+- Communication
+- Conflict management
+- Creativity
+- Critical thinking
+- Decision-making
+- Emotional management
+- Flexibility
+- Leadership
+- Orientation to results
+- Planning
+- Problem-solving
+- Teamwork
+- Time management
