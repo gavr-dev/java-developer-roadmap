@@ -236,3 +236,39 @@
 - Problem-solving
 - Teamwork
 - Time management
+
+## DevOps
+### Materials
+- [DevOps Beginners to Advanced with Projects | Udemy](https://www.udemy.com/course/decodingdevops/)
+
+### Topics
+- Build Tools
+	- Maven
+	- Gradle
+	- Ant
+	- jShell
+- VCS
+	- Git
+		- Github
+		- Gitlab
+		- Bitbucket
+	- GitFlow
+	- Trunk-based Development
+- CI
+	- Сoncepts
+	- Jenkins
+	- SonarQube
+	- PMD, CheckStyle
+	- JaCoCo
+- CD
+	- Сoncepts
+	- Ansible
+- Containers
+	- Concepts
+	- Docker
+	- Docker Compose
+	- K18s
+- Linux
+	- Core commands
+	- OS Concepts
+	- shell
