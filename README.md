@@ -1,5 +1,74 @@
 # Backend Developer Roadmap (Java)
 
+## Algorithms
+- https://leetcode.com/problemset/
+- [https://www.algoexpert.io/data-structures](https://www.algoexpert.io/data-structures) 
+- https://www.educative.io/courses/data-structures-coding-interviews-java
+- https://www.educative.io/courses/algorithms-coding-interviews-java
+- https://www.educative.io/courses/grokking-coding-interview-patterns-java
+- [AlgoExpert | Ace the Coding Interviews](https://www.algoexpert.io/data-structures)
+
+### Materials
+
+### Topics
+
+- Complexity
+	- Big O
+- Data structure
+	- Array
+	- Linked List
+	- Stack
+	- Queue
+	- Graph
+	- Tree
+	- Trie
+	- Heap
+	- Hash table
+- Base algorithms
+	- Sort
+		- Bubble Sort
+		- Selection Sort
+		- Insertion Sort
+		- Merge Sort
+		- Quick Sort
+		- Heap Sort
+		- Radix Sort
+		- Counting Sort
+	- Search
+		- Linear Search
+		- Binary Search
+	- Graph
+		- Traversal
+			- Depth-First Search (DFS)
+			- Breadth-First Search (BFS)
+		- Shortest Path
+			- Dijkstra’s algorithm
+			- Bellman-Ford algorithm
+			- A* search
+		- Minimum Spanning Tree
+			- Prim’s algorithm
+			- Kruskal’s algorithm
+		- Network Flow
+- Advanced algorithms
+- Paradigms
+	- Brute Force
+	- Greedy Algorithms
+	- Divide and Conquer
+	- Dynamic Programming
+- Patterns 
+	- Two Pointers
+	- Fast and Slow Pointers
+	- Sliding Window
+	- Merge Intervals
+	- In-place Reversal of a Linked List
+	- Two Heaps
+	- Top K Elements
+	- Subsets
+	- Greedy Techniques
+	- Dynamic Programming
+	- Backtracking
+	- Matrices
+	- Bitwise Manipulation
 ## Backend
 
 ### Materials
