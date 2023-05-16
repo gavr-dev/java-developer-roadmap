@@ -7,7 +7,6 @@
 - https://www.educative.io/courses/algorithms-coding-interviews-java
 - https://www.educative.io/courses/grokking-coding-interview-patterns-java
 - [AlgoExpert | Ace the Coding Interviews](https://www.algoexpert.io/data-structures)
-
 ### Materials
 
 ### Topics
@@ -250,6 +249,27 @@
 - Spring WebFlux   
 - Vert.x    
 - Akka
+
+
+## System Design
+### Materials
+**Books**
+- Designing Data-Intensive Applications - Kleppmann
+- Building Microservices - Sam Newman
+- Microservices Patterns - Chris Richardson
+- Implementing Domain-Driven Design - Vaughn Vernon
+
+**Courses**
+- [https://github.com/ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+- [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) 
+- [https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
+- [https://www.educative.io/courses/distributed-systems-practitioners](https://www.educative.io/courses/distributed-systems-practitioners)
+- https://www.designgurus.io/course/grokking-the-advanced-system-design-interview
+
+**Sites**
+- https://bytebytego.com
+### Topics
+
 
 ## Frontend
 
