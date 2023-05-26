@@ -270,7 +270,137 @@
 - https://bytebytego.com
 ### Topics
 
+**Patterns**
+- Enterprise Integration Patterns
+- Monolithic
+- Microservices
+	- BFF
+	- CQRS
+	- Event sourcing
+	- Circuit Breaker
+	- Strangler Facade
+	- Pub/Sub
+	- Ambassador
+	- Leader Election
+- CAP
+- Consistency
+- SOA
+- Serverless
+- Service Mash
+- Twelve Factor Apps
 
+**Networks**
+- Topologies
+- DNS
+- OSI & TCP/IP models
+- Protocols
+
+**Integration**
+- Frameworks
+	- Spring Integration
+	- Apache Camel
+- API
+	- REST
+		- HATEOAS
+	- GraphQL
+	- gRPC
+	- SOAP
+	- Websockets
+	- Webhook
+- Messaging
+	- JMS
+	- MQ
+		- ActiveMQ
+		- RabbitMQ
+	- Kafka
+- Proxy
+	- Load Balancers
+		- Nginx
+		- HAProxy
+	- Reverse Proxy
+	- API Gateway
+- Process management
+	- BPM
+	- BPEL
+	- Activiti
+	- Camunda
+
+**DB**
+- RDBMS
+	- Core
+		- DML & DDL
+		- Transactions
+		- ACID
+		- Isolation
+		- Normalization
+		- N+1 problem
+	- PostgreSQL
+	- H2
+- NoSQL
+	- Document
+		- MongoDB
+		- CouchDB
+	- Time Series
+		- InfluxDB
+		- TimeScale
+	- Realtime
+		- Firebase
+		- RethingDB
+	- Column
+		- Cassandra
+		- HBase
+	- Key-Value
+		- Redis
+		- DynamoDB
+	- Graph
+		- Neo4J
+- IMDG
+	- Hazelcast
+	- Apache Ignite
+	- GridGane
+- Scaling
+	- Indexes
+	- Replication
+	- Sharding
+	- Profiling
+	- CAP theorem
+
+**Cache**
+- Client side
+- CDN
+- Server side
+	- Redis
+	- Memcached
+
+**BigData**
+- Hadoop
+- HDFS
+- Ozone
+- S3
+- Hive
+- MapReduce
+- Spark
+- Oozie
+
+**Search Engine**
+- Elasticsearch
+- Solr
+
+**Security**
+- Authentification
+	- OAuth
+	- Basic Auth
+	- Token Auth
+	- JWT
+	- OpenID
+	- SAML
+- Hashing
+	- MD5
+	- SHA
+	- scrypt/bcrypt
+- SSL/TLS
+- HTTPS
+- API Security
 ## Frontend
 
 ### Materials
