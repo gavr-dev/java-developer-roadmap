@@ -1,5 +1,7 @@
 # Backend Developer Roadmap (Java)
+![](img/Backend%20Developer%20Map.png)
 
+List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZbU3qLK
 ## Algorithms
 - https://leetcode.com/problemset/
 - [https://www.algoexpert.io/data-structures](https://www.algoexpert.io/data-structures) 
@@ -111,7 +113,7 @@
 - Java Concurrency in Practice - Goetz,  Joshua Bloch
 
 **Documentation**
-- [JDK 18 Documentation - Home](https://docs.oracle.com/en/java/javase/18/index.html)
+- [JDK 21 Documentation - Home](https://docs.oracle.com/en/java/javase/21/index.html)
 - The Java Language Specification
 - The Java Virtual Machine Specification
 
@@ -142,6 +144,9 @@
 - Lambdas
 - Stream API
 - Data Time API
+- Optional
+- Sealed Class
+- Record
 - Concurrency
 	- Thread, Runnable
 	- volatile
