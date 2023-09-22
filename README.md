@@ -1,5 +1,5 @@
 # Backend Developer Roadmap (Java)
-![](img/Backend%20Developer%20Map.png)
+![](img/backend-developer-map.png)
 
 List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZbU3qLK
 ## Algorithms
