@@ -4,6 +4,7 @@
 
 List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZbU3qLK
 ## Algorithms
+
 > [!NOTE]
 > **Courses:**
 > - [Problems - LeetCode](https://leetcode.com/problemset/)
@@ -11,8 +12,6 @@ List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZ
 > - [Data Structures for Coding Interviews in Java - AI-Powered Learning for Developers](https://www.educative.io/courses/data-structures-coding-interviews-java)
 > - [Algorithms for Coding Interviews in Java - AI-Powered Learning for Developers](https://www.educative.io/courses/algorithms-coding-interviews-java)
 > - [Grokking Coding Interview Patterns in Java - AI-Powered Learning for Developers](https://www.educative.io/courses/grokking-coding-interview-patterns-java)
-### Materials
-
 ### Topics
 
 - Complexity
@@ -74,27 +73,29 @@ List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZ
 	- Bitwise Manipulation
 ## Backend
 
-### Materials
-**Books**
-- Refactoring: Improving the Design of Existing Code - Martin Fowler
-- Patterns of Enterprise Application Architecture - Martin Fowler
-- Clean Code - Robert Martin
-- The Clean Coder -  Robert Martin
-- Code Complete -  Steve McConnell
-- Working Effectively with Legacy Code -  Michael Feathers
-- The Pragmatic Programmer - David Thomas
-**Courses**
-- https://job4j.ru/
-- https://hyperskill.org/tracks
+> [!NOTE]
+> **Books**
+> - Refactoring: Improving the Design of Existing Code - Martin Fowler
+> - Patterns of Enterprise Application Architecture - Martin Fowler
+> - Clean Code - Robert Martin
+> - The Clean Coder -  Robert Martin
+> - Code Complete -  Steve McConnell
+> - Working Effectively with Legacy Code -  Michael Feathers
+> - The Pragmatic Programmer - David Thomas
+>
+> **Courses**
+> - [Hyperskill](https://hyperskill.org/tracks)
+> - [Курс - Java программист](https://job4j.ru/)
+
 ### Principles & Patterns
 
-#### Materials
-**Books**
-- [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?crid=2KBE6WUPQMB5B&keywords=head+first+design+patterns+a+brain-friendly+guide&qid=1582557840&s=books&sprefix=head+first+design+%2Cstripbooks-intl-ship%2C159&sr=1-1) - Eric Freeman 
-
-**Resources**
-- https://refactoring.guru
-- [https://www.geeksforgeeks.org/gang-of-four-gof-design-patterns](https://www.geeksforgeeks.org/gang-of-four-gof-design-patterns)/
+> [!NOTE]
+> **Books**
+> - Head First Design Patterns - Eric Freeman 
+>
+> **Resources**
+> - [Refactoring and Design Patterns](https://refactoring.guru)
+> - [https://www.geeksforgeeks.org/gang-of-four-gof-design-patterns](https://www.geeksforgeeks.org/gang-of-four-gof-design-patterns)/
 
 #### Topics
 - OOP
@@ -103,24 +104,24 @@ List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZ
 - Design patterns (GoF)
 - DDD
 - Anti patterns
+
 ### Java Core
 
-#### Materials
-
-**Books**
-- Head first Java - Kathy Sierra
-- Core Java, Vol 1 & 2 - Horstmann 
-- Core Java for the Impatient - Horstmann
-- Effective Java - Joshua Bloch
-- Java Concurrency in Practice - Goetz,  Joshua Bloch
-
-**Documentation**
-- [JDK 21 Documentation - Home](https://docs.oracle.com/en/java/javase/21/index.html)
-- The Java Language Specification
-- The Java Virtual Machine Specification
-
-**Courses**
-- https://zhukovsd.github.io/java-backend-learning-course/
+> [!NOTE]
+> **Books**
+> - Head first Java - Kathy Sierra
+> - Core Java, Vol 1 & 2 - Horstmann 
+> - Core Java for the Impatient - Horstmann
+> - Effective Java - Joshua Bloch
+> - Java Concurrency in Practice - Goetz,  Joshua Bloch
+>
+> **Documentation**
+> - [JDK 21 Documentation - Home](https://docs.oracle.com/en/java/javase/21/index.html)
+> - The Java Language Specification
+> - The Java Virtual Machine Specification
+> 
+> **Courses**
+>  - [Добро пожаловать | java-backend-learning-course](https://zhukovsd.github.io/java-backend-learning-course/)
 
 #### Topics
 
@@ -186,12 +187,12 @@ List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZ
 	- WildFly
 ### Frameworks
 
-#### Materials
-**Books**
-- "Spring in Action" series
-  
-**Documentation**
-- Official documentation
+> [!NOTE]
+> **Books**
+> - "Spring in Action" series
+> 
+> **Documentation**
+> - Official documentation
 #### Topics
 **Spring** 
  - Spring Core
@@ -259,22 +260,23 @@ List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZ
 
 
 ## System Design
-### Materials
-**Books**
-- Designing Data-Intensive Applications - Kleppmann
-- Building Microservices - Sam Newman
-- Microservices Patterns - Chris Richardson
-- Implementing Domain-Driven Design - Vaughn Vernon
 
-**Courses**
-- [https://github.com/ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-- [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) 
-- [https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
-- [https://www.educative.io/courses/distributed-systems-practitioners](https://www.educative.io/courses/distributed-systems-practitioners)
-- https://www.designgurus.io/course/grokking-the-advanced-system-design-interview
-
-**Sites**
-- https://bytebytego.com
+> [!NOTE]
+> **Books**
+> - Designing Data-Intensive Applications - Kleppmann
+> - Building Microservices - Sam Newman
+> - Microservices Patterns - Chris Richardson
+> - Implementing Domain-Driven Design - Vaughn Vernon
+>
+> **Courses**
+> - [https://github.com/ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+> - [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) 
+> - [https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
+> - [https://www.educative.io/courses/distributed-systems-practitioners](https://www.educative.io/courses/distributed-systems-practitioners)
+> - https://www.designgurus.io/course/grokking-the-advanced-system-design-interview
+>
+> **Sites**
+> - [ByteByteGo | Technical Interview Prep](https://bytebytego.com)
 ### Topics
 
 **Patterns**
@@ -410,9 +412,6 @@ List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZ
 - API Security
 ## Frontend
 
-### Materials
-*TBD*
-
 ### Topics
 - JavaScript
 - React, Vue, Angular
@@ -420,8 +419,10 @@ List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZ
 
 ## Testing
 
-### Materials
-- Тестирование Дот Ком, Роман Савин
+> [!NOTE]
+> **Books**
+> - Тестирование Дот Ком - Роман Савин
+
 ### Topics
 - Unit
 	- JUnit
@@ -464,9 +465,10 @@ List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZ
 - Time management
 
 ## DevOps
-### Materials
-- [DevOps Beginners to Advanced with Projects | Udemy](https://www.udemy.com/course/decodingdevops/)
 
+> [!NOTE]
+> **Courses**
+> - [DevOps Beginners to Advanced with Projects | Udemy](https://www.udemy.com/course/decodingdevops/)
 ### Topics
 - Build Tools
 	- Maven
