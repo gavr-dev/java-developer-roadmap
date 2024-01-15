@@ -4,7 +4,7 @@
 
 List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZbU3qLK
 ## Algorithms
-> [!Materials]
+> [!NOTE]
 > **Courses:**
 > - [Problems - LeetCode](https://leetcode.com/problemset/)
 > - [Data Structures | AlgoExpert](https://www.algoexpert.io/data-structures)
