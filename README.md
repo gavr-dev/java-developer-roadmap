@@ -1,14 +1,16 @@
-# Backend Developer Roadmap (Java)
+ <h1 align="center">Backend Developer Roadmap (Java)</h1>
+
 ![](img/backend-developer-map.png)
 
 List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZbU3qLK
 ## Algorithms
-- https://leetcode.com/problemset/
-- [https://www.algoexpert.io/data-structures](https://www.algoexpert.io/data-structures) 
-- https://www.educative.io/courses/data-structures-coding-interviews-java
-- https://www.educative.io/courses/algorithms-coding-interviews-java
-- https://www.educative.io/courses/grokking-coding-interview-patterns-java
-- [AlgoExpert | Ace the Coding Interviews](https://www.algoexpert.io/data-structures)
+> [!Materials]
+> **Courses:**
+> - [Problems - LeetCode](https://leetcode.com/problemset/)
+> - [Data Structures | AlgoExpert](https://www.algoexpert.io/data-structures)
+> - [Data Structures for Coding Interviews in Java - AI-Powered Learning for Developers](https://www.educative.io/courses/data-structures-coding-interviews-java)
+> - [Algorithms for Coding Interviews in Java - AI-Powered Learning for Developers](https://www.educative.io/courses/algorithms-coding-interviews-java)
+> - [Grokking Coding Interview Patterns in Java - AI-Powered Learning for Developers](https://www.educative.io/courses/grokking-coding-interview-patterns-java)
 ### Materials
 
 ### Topics
