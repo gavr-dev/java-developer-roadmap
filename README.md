@@ -1,4 +1,9 @@
  <h1 align="center">Backend Developer Roadmap (Java)</h1>
+<p align="center">
+<img src="https://img.shields.io/github/last-commit/gavr-dev/java-developer-roadmap"/>
+<a href="https://gavr.dev" target="_blank" alt="Mentoring"><img src="https://img.shields.io/badge/mentoring-gavr.dev-green"/></a>
+<a href="https://github.com/gavr-dev/java-developer-roadmap/blob/main/LICENSE" alt="GPLv3 licensed"><img src="https://img.shields.io/badge/license-GPLv3-blue"/></a>
+</p>
 
 ![](img/backend-developer-map.png)
 
