@@ -7,7 +7,9 @@
 
 ![](img/backend-developer-map.png)
 
-List of skills in the form of a mindmap - https://xmind.ai/share/yf4P3Sbb?xid=YZbU3qLK
+  
+Today, a Java backend developer is expected to be familiar with a vast array of technologies, frameworks, and tools, which can be overwhelming. This repository and accompanying [mind map](https://xmind.ai/share/yf4P3Sbb?xid=YZbU3qLK) are intended to help both novice and experienced developers find their way through this variety. Additionally, you can view the [project specifications](Project.md) for the educational project by following the provided link, where I have included 90% of the technologies currently used in professional settings.
+
 ## Algorithms
 
 > [!NOTE]
